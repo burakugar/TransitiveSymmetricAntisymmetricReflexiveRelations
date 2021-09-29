@@ -1,0 +1,4 @@
+sad <> happy glad content joyful
+happy <> sad gloomy unhappy miserable
+high <> low small short
+small <> large big great huge
